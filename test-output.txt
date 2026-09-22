@@ -1,0 +1,14 @@
+test_constant_reference_and_extreme_values (test_engine.DriftTests.test_constant_reference_and_extreme_values) ... ok
+test_identical_distribution (test_engine.DriftTests.test_identical_distribution) ... ok
+test_invalid_and_nonfinite (test_engine.DriftTests.test_invalid_and_nonfinite) ... ok
+test_missingness_separate (test_engine.DriftTests.test_missingness_separate) ... ok
+test_shift_detected (test_engine.DriftTests.test_shift_detected) ... ok
+test_small_batch_does_not_report_valid_psi (test_engine.DriftTests.test_small_batch_does_not_report_valid_psi) ... ok
+test_atomic_report_roundtrip (test_feeds.FeedTests.test_atomic_report_roundtrip) ... ok
+test_network_failure_is_not_synthetic_fallback (test_feeds.FeedTests.test_network_failure_is_not_synthetic_fallback) ... ok
+test_nonfinite_output_rejected (test_feeds.FeedTests.test_nonfinite_output_rejected) ... ok
+
+----------------------------------------------------------------------
+Ran 9 tests in 0.021s
+
+OK

@@ -1,0 +1,45 @@
+{
+  "mode": "live fetch",
+  "generated_at": "2026-09-22T01:21:19.165670+00:00",
+  "sources": [
+    {
+      "url": "https://earthquake.usgs.gov/earthquakes/feed/v1.0/summary/all_week.geojson",
+      "fetched_at": "2026-09-22T01:21:19.150678+00:00"
+    }
+  ],
+  "result": {
+    "reference_samples": 1730,
+    "current_samples": 243,
+    "finite_samples": 243,
+    "psi": 0.03738969224691708,
+    "missing_rate": 0.0,
+    "missing_rate_delta": 0.0,
+    "edges": [
+      0.4,
+      0.75,
+      1.0,
+      1.25,
+      1.5,
+      1.71,
+      1.96,
+      2.35,
+      3.2
+    ],
+    "bin_counts": [
+      15,
+      32,
+      23,
+      23,
+      20,
+      29,
+      21,
+      31,
+      22,
+      27
+    ],
+    "alerts": [],
+    "project": "DriftWatch",
+    "cutoff_ms": 1789953644000,
+    "note": "Compares reported magnitudes in the preceding six days versus the latest day. Distribution changes can reflect actual seismic activity or source coverage; this is not an earthquake forecast."
+  }
+}
